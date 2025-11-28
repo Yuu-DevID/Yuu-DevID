@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a4/48/c2/a448c26624a8a62d476ea8fa5b8a448f.jpg" alt="Chisa banner" width="100%" height="70%"/>
+  <img src="https://i.pinimg.com/736x/a4/48/c2/a448c26624a8a62d476ea8fa5b8a448f.jpg" alt="Chisa banner" width="100%" height="60%"/>
 </p>
 
 <!-- Nama & Tagline -->
