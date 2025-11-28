@@ -4,22 +4,22 @@
 </p>
 
 <!-- Nama & Tagline -->
-<h1 align="center">Yusuf</h1>
+<h1 align="center">Yusuf / Yuu-DevID</h1>
 <p align="center">
   <strong>IT Programmer</strong> • <strong>IT Support</strong> • <strong>Pentester</strong>
 </p>
 
 <!-- Sosmed -->
 <p align="center">
-  <a href="mailto:yusuf.saputra@email.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yusufsaputra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yusufsaputra"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:yusufsaputra4231@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@YuuDevIT"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/Yuu-DevID"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🌟 About Me
-Full-stack developer & ethical hacker who loves clean code, stable networks, and anime soundtracks on loop.
+IT Programmer & Ethical hacker who loves clean code, stable networks, and anime.
 
 ---
 
@@ -61,8 +61,9 @@ Full-stack developer & ethical hacker who loves clean code, stable networks, and
 
 ### 🎌 Wibu Corner
 > Currently waiting for season 3 that will never come.  
-> Favorite OP: *"Kimi no Sei" by the peggies*
+> Favorite OP: **Renai Circulation – Kana Hanazawa**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF75B5&lines=Semangat%20Ngoding%20%F0%9F%92%AA;Trust%20the%20Process%20%F0%9F%9A%80" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=FF4B6E&width=700&height=90&center=true&lines=Trust%20The%20Process;Never%20Give%20Up;And%20Do%20The%20Best
+" alt="Typing"/>
 </p>
