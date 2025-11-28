@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a4/48/c2/a448c26624a8a62d476ea8fa5b8a448f.jpg" alt="Chisa banner" width="100%" height="40%"/>
+  <img src="https://i.pinimg.com/736x/a4/48/c2/a448c26624a8a62d476ea8fa5b8a448f.jpg" alt="Chisa banner" width="100%" height="30%"/>
 </p>
 
 <!-- Nama & Tagline -->
@@ -64,6 +64,5 @@ IT Programmer & Ethical hacker who loves clean code, stable networks, and anime.
 > Favorite OP: **Renai Circulation – Kana Hanazawa**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=FF4B6E&width=700&height=90&center=true&lines=Trust%20The%20Process;Never%20Give%20Up;And%20Do%20The%20Best
-" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=FF4B6E&width=700&height=90&center=true&lines=Trust%20The%20Process;Never%20Give%20Up;And%20Do%20The%20Best" alt="Typing"/>
 </p>
