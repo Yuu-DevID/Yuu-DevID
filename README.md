@@ -50,10 +50,10 @@ IT Programmer & Ethical hacker who loves clean code, stable networks, and anime.
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yusufsaputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Yuu-DevID&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsaputra&theme=radical&hide_border=true&layout=compact" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu-DevID&theme=radical&hide_border=true&layout=compact" alt="Top Langs"/>
     </td>
   </tr>
 </table>
