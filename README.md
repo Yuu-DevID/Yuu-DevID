@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/a4/48/c2/a448c26624a8a62d476ea8fa5b8a448f.jpg" alt="Chisa banner" width="100%"/>
+</p>
 
-<!--
-**Yuu-DevID/Yuu-DevID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Nama & Tagline -->
+<h1 align="center">Yusuf</h1>
+<p align="center">
+  <strong>IT Programmer</strong> • <strong>IT Support</strong> • <strong>Pentester</strong>
+</p>
 
-Here are some ideas to get you started:
+<!-- Sosmed -->
+<p align="center">
+  <a href="mailto:yusuf.saputra@email.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yusufsaputra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yusufsaputra"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+Full-stack developer & ethical hacker who loves clean code, stable networks, and anime soundtracks on loop.
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+  <!-- Dev -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat&logo=portswigger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caido-1E90FF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&logoColor=white"/>
+  <!-- Network -->
+  <img src="https://img.shields.io/badge/Mikrotik-FCA13A?style=flat&logo=router&logoColor=black"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yusufsaputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsaputra&theme=radical&hide_border=true&layout=compact" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎌 Wibu Corner
+> Currently waiting for season 3 that will never come.  
+> Favorite OP: *"Kimi no Sei" by the peggies*
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF75B5&lines=Semangat%20Ngoding%20%F0%9F%92%AA;Trust%20the%20Process%20%F0%9F%9A%80" alt="Typing"/>
+</p>
